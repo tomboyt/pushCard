@@ -143,6 +143,7 @@
 		6509E55D2631021600E05324 /* PunchCard */ = {
 			isa = PBXGroup;
 			children = (
+				651CF57F26329271009BD305 /* Tool */,
 				651CF54A26315E44009BD305 /* Lib */,
 				6509E55E2631021600E05324 /* AppDelegate.h */,
 				6509E55F2631021600E05324 /* AppDelegate.m */,
@@ -181,7 +182,6 @@
 			isa = PBXGroup;
 			children = (
 				651CF54B26315E5B009BD305 /* FMDB */,
-				651CF57F26329271009BD305 /* Tool */,
 			);
 			path = Lib;
 			sourceTree = "<group>";
